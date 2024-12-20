@@ -2,7 +2,7 @@
 As a dedicated student of Informatics, I am deeply passionate about exploring and mastering various aspects of technology, focusing on Machine Learning, Project Management, and Full Stack Web Development. My interest in Machine Learning drives me to delve into data analysis, predictive modeling, and algorithm optimization, with hands-on experience in tools such as TensorFlow, Scikit-learn, and Python to create innovative solutions for real-world challenges. In addition to technical expertise, I excel in Project Management, where I effectively organize and lead teams, balancing technical understanding with leadership to ensure timely project delivery and seamless communication between technical teams and stakeholders. As a Full Stack Web Developer, I possess proficiency in front-end and back-end technologies, including HTML, CSS, JavaScript, React, Node.js, and databases like MySQL and MongoDB, allowing me to design and implement scalable, user-friendly web applications. My commitment to learning and growth, coupled with a strong work ethic and curiosity, motivates me to continuously expand my skills and contribute to impactful projects in the ever-evolving field of technology.
 
 
-## 🌐 Socials:
+## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlospurba/) 
 
 # 💻 Tech Stack:
